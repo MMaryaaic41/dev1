@@ -1,0 +1,102 @@
+linux
+
+ls - a hidden
+ls  -R
+ls -lsr
+
+
+usr/bin/ls-- ls command is at ls
+
+#!bin/bash
+
+$string="helo world"
+echo String
+
+
+su liam
+
+whoami
+
+su -
+
+top
+
+uname
+
+
+ECHOFILESIZE
+
+bash variables
+echo string
+bash
+set
+
+
+
+/etc/bashrc system wide function and aliases
+/etc/profile system wide enviorment and startup programs
+
+
+env- to see environment variables
+
+set
+
+hellow can i borrow \$3.50
+
+
+locate
+
+find
+
+info 
+
+info
+
+top
+
+
+
+locate passwd
+
+
+find /home/user/.config -name '*.xml'
+
+
+find /-user sma -name '*.sh'
+
+rm -r Documents/sm2                 recursivley remove files.
+
+
+tar -cf for n1.tar n1.tar
+
+tar -czf  n1.tar.gz n1
+
+tar -xzf n1.tar.gz
+
+rm -r for files remove
+rm -rf for directory and files removal
+
+
+zip -r n1.zip n1
+
+unzip n1.zip
+
+to know if a file is directory or file.. use file n1 or file file1
+
+
+head -n1 smc.txt >>smc1.txt
+
+cut -d" " f 6 smc.txt
+
+
+grep spark smc.txt to highlight only spark word
+
+grep 'sca*' smc.txt
+
+
+
+
+
+
+
+
